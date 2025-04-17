@@ -2,7 +2,7 @@ Hi!, I am Emran, a frontend developer 👋🏻
 ---
 
 - 🔭 currently working on my own portfolio
-- 📚 doing Masters in Media Technology in Technical University Ilmenau
+- 📚 doing a Master's in Media Technology at the Technical University of Ilmenau
 - 🌱 learning Redux
 
 
